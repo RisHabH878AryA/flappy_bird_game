@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 .gamestartbg {
-    --frame1: url("/images/fly-frame-1.png");
-    --frame2: url("/images/fly-frame-2.png");
+    --frame1: url("fly-frame-1.png");
+    --frame2: url("fly-frame-2.png");
 }
 
 .gameoverbg {
